@@ -54,7 +54,7 @@ Heart disease is one of the leading causes of death worldwide. Early detection a
 
 ## Dataset
 
-The project uses the [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Heart+Disease) or similar datasets. Please ensure the dataset is placed in the appropriate directory (usually `data/`).
+The project uses the [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Heart+Disease) or similar datasets. Please ensure the dataset is placed in the appropriate directory (usually `data/`). I have also added the Heart Diseas.csv file
 
 ## Results
 
@@ -62,7 +62,7 @@ After training, the script will display the evaluation metrics for each model (a
 
 ## Paper
 
-The research paper referenced for this project is included in the repository. Please refer to the `paper/` directory (or the location you have placed it) for details.
+The research paper referenced for this project is included in the repository. Please refer to the `Prediction of Heart Diseas.pdf` directory (or the location you have placed it) for details.
 
 ## Contributing
 
