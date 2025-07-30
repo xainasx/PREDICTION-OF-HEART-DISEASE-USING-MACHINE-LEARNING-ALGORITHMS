@@ -33,7 +33,7 @@ Heart disease is one of the leading causes of death worldwide. Early detection a
    ```
 2. Navigate to the project directory:
    ```bash
-   cd PREDICTION-OF-HEART-DISEASE-USING-MACHINE-LEARNING-ALGORITHMS
+   cd Prediction-of-Heart-Disease-Using-ML-Algorithms
    ```
 3. Install the required dependencies:
    ```bash
